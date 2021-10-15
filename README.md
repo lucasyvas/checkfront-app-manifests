@@ -10,6 +10,7 @@ Manifest Format:
 "id": {
 	"name": "App Name",
 	"description": "A brief description of your app.",
+	"logoUrl": "http://localhost:3000/whatever.png" // A nice logo we can show for your app
 	"tokenCallbackUrl": "http://localhost:3000", // We'll redirect the user's browser to a URL of your choice along with API credentials
 	"homeUrl": "http://localhost:3000" // Show us where to navigate the user to when they are looking to interact with your app
 }
