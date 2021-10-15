@@ -1,0 +1,8 @@
+{
+  "halloweenify": {
+    "name": "Halloweenify",
+    "description": "Give a spooky twist to your Checkront product categories.",
+    "tokenCallbackUrl": "http://localhost:3000",
+    "homeUrl": "http://localhost:3000"
+  }
+}
