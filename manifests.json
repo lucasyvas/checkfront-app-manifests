@@ -5,5 +5,26 @@
     "logoUrl": "https://w7.pngwing.com/pngs/185/135/png-transparent-pumpkin-halloween-pumpkin-food-orange-computer-wallpaper-thumbnail.png",
     "tokenCallbackUrl": "http://localhost:3000",
     "homeUrl": "http://localhost:3000"
+  },
+  "slack": {
+    "name": "Slack",
+    "description": "Real-time notifications for bookings in Slack channels",
+    "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png",
+    "tokenCallbackUrl": "about:blank",
+    "homeUrl": "about:blank"
+  },
+  "airtable": {
+    "name": "Airtable",
+    "description": "Record your products and categories in Airtable",
+    "logoUrl": "https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange.png",
+    "tokenCallbackUrl": "about:blank",
+    "homeUrl": "about:blank"
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Track your all your guest preferences in Notion",
+    "logoUrl": "https://www.notion.so/front-static/logo-ios.png",
+    "tokenCallbackUrl": "about:blank",
+    "homeUrl": "about:blank"
   }
 }
